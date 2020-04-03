@@ -1,6 +1,6 @@
 # Badge level
 
-Badge for the giving level to user for some progress,Like some tier of user in application progress
+Beautiful Badge for the giving level to user for some progress,Like some tier of user in application progress
 ### Show some :heart: and :star: the repo to support
 
 ## Screenshots
