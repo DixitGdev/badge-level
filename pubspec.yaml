@@ -1,6 +1,6 @@
 name: badgelevel
 description: Badge for the giving level to user for some progress
-version: 0.0.3
+version: 0.0.4
 homepage: https://github.com/DiksDev/badge-level
 
 environment:
