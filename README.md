@@ -8,7 +8,7 @@ Beautiful Badge for the giving level to user for some progress,Like some tier of
 
 
 ## Usage
-https://github.com/DiksDev/badge-level/blob/master/lib/example.dart
+https://github.com/DiksDev/badge-level
 
 
 
