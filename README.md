@@ -1,4 +1,4 @@
-# badgelevel
+# Badge level
 
 Badge for the giving level to user for some progress
 
