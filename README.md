@@ -4,7 +4,7 @@ Beautiful Badge for the giving level to user for some progress,Like some tier of
 ### Show some :heart: and :star: the repo to support
 
 ## Screenshots
-<img src="Screen1.PNG"/><img src="Screen2.PNG"/>
+<img src="First.PNG"/><img src="Second.PNG"/>
 
 
 ## Usage
