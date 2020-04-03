@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
         circleRadius: 20,
         frontRadius: 25,
         imageIcon: Icon(Icons.security),
-        levelName: "Gold",
+        levelName: "LEVEL",
       ),
     );
   }
