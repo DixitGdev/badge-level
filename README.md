@@ -1,10 +1,10 @@
 # Badge level
 
 Badge for the giving level to user for some progress,Like some tier of user in application progress
-### Show some :heart and star the repo to support
+### Show some :heart: and :star: the repo to support
 
 ## Screenshots
-<img src="Screen1.png" height="300em"/><img src="Screen2.PNG" height="300em"/>
+<img src="Screen1.png"/> <img src="Screen2.PNG"/>
 
 
 ## Usage
