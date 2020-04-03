@@ -4,11 +4,11 @@ Badge for the giving level to user for some progress,Like some tier of user in a
 ### Show some :heart: and :star: the repo to support
 
 ## Screenshots
-<img src="Screen1.PNG" height="300cm"/><img src="Screen2.PNG"/>
+<img src="Screen1.PNG"/><img src="Screen2.PNG"/>
 
 
 ## Usage
-https://github.com/DiksDev/badge-level/lib/badgelevel.dart
+https://github.com/DiksDev/badge-level/blob/master/lib/example.dart
 
 
 
